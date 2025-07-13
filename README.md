@@ -42,7 +42,7 @@ I am a **Software Engineering student at McMaster University** who has acquired 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=erika-goh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erika-goh&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=erika-goh&theme=radical&border=FF66B2&fire=FF66B2&currStreakLabel=FF66B2&sideLabels=FF66B2&currStreakNum=FF66B2&dates=FF66B2)](https://github-readme-stats.vercel.app/api?username=erika-goh&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=erika-goh&theme=radical&](https://github-readme-stats.vercel.app/api?username=erika-goh&show_icons=true&theme=radical)
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikagoh/)
