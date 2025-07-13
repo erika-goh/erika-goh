@@ -1,4 +1,14 @@
-## Hey my name is Erika 👋
+# Hey there, I'm Erika Goh! 👋
+
+I am a **Software Engineering student at McMaster University** who has acquired a variety of skills and knowledge from diverse projects, jobs, and engineering design teams. I love building projects, learning new technologies, and solving real-world problems.
+
+<p align="center">
+  <img src="assets/mcmaster-logo.png" alt="McMaster University Logo" width="200"/>
+</p>
+
+---
+
+## 🛠️ Technologies I'm Working With
 
 ## Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
