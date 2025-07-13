@@ -6,7 +6,6 @@ I am a **Software Engineering student at McMaster University** who has acquired 
 ## LeetCode Stats ✅
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/erika_goh?theme=dark&font=Helvetica&ext=contest) 
-![LeetCode Submission Calendar](https://leetcalendar.jclab.dev/erika_goh?theme=light)
 
 ---
 ## 🛠️ Technologies I'm Working With
