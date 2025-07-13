@@ -2,7 +2,7 @@
 
 I am a **Software Engineering student at McMaster University** who has acquired a variety of skills and knowledge from diverse projects, jobs, and engineering design teams. I love building projects, learning new technologies, and solving real-world problems.
 
-!(mcmaster-logo.png)
+!mcmaster-logo.png
 
 ---
 
