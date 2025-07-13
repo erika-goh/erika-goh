@@ -36,12 +36,14 @@ I am a **Software Engineering student at McMaster University** who has acquired 
 ![Cursor](https://img.shields.io/badge/-Cursor-3C3744?style=for-the-badge&logo=visualstudiocode&logoColor=white&label=Cursor%20Editor)
 
 ---
+<div style="background-color: #000000; padding: 20px; border-radius: 10px;">
 
 ## 📊 GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=erika-goh&theme=radical&border=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&currStreakNum=00FFFF&dates=00FFFF&background=1A1B27)](https://github.com/erika-goh)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erika-goh&layout=compact&theme=radical)
 
+</div>
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikagoh/)
