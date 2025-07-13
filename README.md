@@ -36,3 +36,8 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=erika-goh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erika-goh&layout=compact&theme=radical)
 
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/erikagoh/))
+[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=vercel&logoColor=white)]((https://erika-goh.github.io/erikagoh.github.io/))
+
