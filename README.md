@@ -42,7 +42,12 @@ I am a **Software Engineering student at McMaster University** who has acquired 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=erika-goh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erika-goh&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=erika-goh&theme=radical&](https://github-readme-stats.vercel.app/api?username=erika-goh&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=erika-goh&theme=radical&border=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&currStreakNum=00FFFF&dates=00FFFF)](https://github-readme-stats.vercel.app/api?username=erika-goh&show_icons=true&theme=radical&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF)
+
+[![Erika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erika-goh&show_icons=true&theme=radical&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&bg_color=1A1B27&hide_border=true)](https://github.com/erika-goh)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=erika-goh&theme=radical&border=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&currStreakNum=00FFFF&dates=00FFFF&background=1A1B27)](https://github.com/erika-goh)
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikagoh/)
