@@ -49,4 +49,3 @@ I am a **Software Engineering student at McMaster University** who has acquired 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikagoh/)
-[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://erika-goh.github.io/erikagoh.github.io/)
