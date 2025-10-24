@@ -41,7 +41,6 @@ I am a **Software Engineering student at McMaster University** who has acquired 
 ---
 
 ## 📊 GitHub Stats:
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=erika-goh&theme=radical&border=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&currStreakNum=00FFFF&dates=00FFFF&background=1A1B27)](https://github.com/erika-goh)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erika-goh&layout=compact&theme=radical)
 
